@@ -3,7 +3,7 @@
  * @author santozrx
  * @description Melhora os nomes dos bate-papos, colocando-os automaticamente em maiúsculas e removendo traços/sublinhados
  * @invite AsVRsJarMM
- * @version 1.0.0
+ * @version 1.0.1
  * @authorLink https://discord.com/users/930664055650287706
  * @website 
  * @source 
